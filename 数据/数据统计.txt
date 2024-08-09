@@ -1,0 +1,6 @@
+统计:
+store 约4000条
+storeseller 约4000条
+order 10万条
+onsale 约20万条
+order_item 约31万条

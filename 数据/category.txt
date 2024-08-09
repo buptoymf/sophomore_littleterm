@@ -1,0 +1,24 @@
+insert into category_first values('电子产品');
+insert into category_first values('食品');
+insert into category_first values('衣服');
+
+insert into category_second values('电子产品','手机');
+insert into category_second values('电子产品','电脑');
+insert into category_second values('食品','水果');
+insert into category_second values('食品','休闲食品');
+insert into category_second values('衣服','男装');
+insert into category_second values('衣服','女装');
+
+insert into category_third values ('惠普电脑','电脑');
+insert into category_third values ('联想电脑','电脑');
+insert into category_third values ('华为','手机');
+insert into category_third values ('小米','手机');
+insert into category_third values ('桃子','水果');
+insert into category_third values ('香蕉','水果');
+insert into category_third values ('薯片','休闲食品');
+insert into category_third values ('饼干','休闲食品');
+insert into category_third values ('男T恤','男装');
+insert into category_third values ('男休闲裤','男装');
+insert into category_third values ('女T恤','女装');
+insert into category_third values ('女裤','女装');
+

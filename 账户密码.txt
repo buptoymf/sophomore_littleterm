@@ -1,0 +1,10 @@
+mysqlÃüÁîĞĞµØÖ·
+C:\Program Files\MySQL\MySQL Server 8.0\bin
+
+
+create user 'admin'@'127.0.0.1' identified by '666';
+create user 'shop'@'127.0.0.1' identified by '888';
+
+mysql -h127.0.0.1 -uadmin -p666
+
+mysql -h127.0.0.1 -ushop -p888
